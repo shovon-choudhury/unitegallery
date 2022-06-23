@@ -1,6 +1,8 @@
 
 ##[Unite Gallery](http://unitegallery.net) - Responsive jQuery Gallery Plugin
 
+[Check source code on GitHub](https://github.com/shovon-choudhury/unitegallery)
+
 Product Link: [unitegallery.net](http://unitegallery.net)
 
 This gallery has commercial versions for: [WordPress](http://wp.unitegallery.net) , [Joomla!](http://unitecms.net/premium-extensions/unite-gallery-main/default-theme) , [PrestaShop](http://ps.unitegallery.net/content/6-ug-default-theme) , [OpenCart](http://oc.unitegallery.net/index.php?route=information/information&information_id=7)
@@ -11,9 +13,9 @@ Themes including and options help under each theme menu [as here for example](ht
 
 ## Overview
 
-The Unite Gallery is multipurpose javascript gallery based on jquery library. 
-It's built with a modular technique with a lot of accent of ease of use and customization. It's very easy to customize the gallery, changing it's skin via css, and even writing your own theme. 
-Yet this gallery is very powerfull, fast and has the most of nowdays must have features like responsiveness, touch enabled and even zoom feature, it's unique effect. 
+The Unite Gallery is multipurpose javascript gallery based on jquery library.
+It's built with a modular technique with a lot of accent of ease of use and customization. It's very easy to customize the gallery, changing it's skin via css, and even writing your own theme.
+Yet this gallery is very powerfull, fast and has the most of nowdays must have features like responsiveness, touch enabled and even zoom feature, it's unique effect.
 
 ## Features
 
